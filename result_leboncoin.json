@@ -1,0 +1,13 @@
+{
+    "title": "Belle grande meuliere lumineuse et calme proche",
+    "author": "pacoue",
+    "properties": {
+        "price": 350000,
+        "city": "Livry-Gargan 93190",
+        "type": "Maison",
+        "rooms": "5",
+        "surfaceArea": 140,
+        "GES": "Vierge",
+        "energyClass": "Vierge"
+    }
+}

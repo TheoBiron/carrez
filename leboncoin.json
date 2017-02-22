@@ -1,0 +1,13 @@
+{
+	"title": "",
+	"author": "",
+	"properties": {
+		"price": "integer",
+		"city": "string",
+		"type": "string",
+		"rooms": "integer",
+		"surfaceArea": "integer",
+		"GES": "string",
+		"energyClass": "string"
+	}
+}
